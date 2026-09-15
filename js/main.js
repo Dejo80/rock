@@ -23,8 +23,8 @@
   ];
 
   var INCLUDED = [
-    '25.000+ live kanala',
-    '80.000+ filmova i serija',
+    '28.000+ live kanala',
+    '120.000+ filmova i serija',
     '4K / FHD / HD kvalitet',
     'EPG TV vodič',
     'Catch-up do 7 dana',
