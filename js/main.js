@@ -387,7 +387,7 @@
           '<p class="modal-lead" id="modalLead"></p>' +
           '<div class="plan-picker" id="planPicker"></div>' +
           '<div class="field-row">' +
-            '<div class="field"><label for="ofName">Ime</label><input id="ofName" name="name" type="text" autocomplete="name" placeholder="Kako da te zovemo?"></div>' +
+            '<div class="field"><label for="ofName">Ime</label><input id="ofName" name="name" type="text" autocomplete="name" placeholder="Ime"></div>' +
             '<div class="field"><label for="ofPhone">Telefon / WhatsApp</label><input id="ofPhone" name="phone" type="tel" autocomplete="tel" placeholder="+381 6x xxx xxxx"></div>' +
           '</div>' +
           '<div class="field"><label for="ofDevice">Uređaj</label><select id="ofDevice" name="device">' +
