@@ -9,7 +9,7 @@
   /* ---------------- Kontakt ---------------- */
   var CONTACT = {
     waNumber: '381601234567',
-    waDisplay: '+381 60 123 456w',
+    waDisplay: '+online',
     telegram: 'rockettv_rs',
     email: 'podrska@rockettv.rs'
   };
