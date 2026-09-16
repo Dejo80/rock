@@ -9,7 +9,7 @@
   /* ---------------- Kontakt ---------------- */
   var CONTACT = {
     waNumber: '381601234567',
-    waDisplay: '+381 60 123 4567',
+    waDisplay: '+381 60 123 456w',
     telegram: 'rockettv_rs',
     email: 'podrska@rockettv.rs'
   };
@@ -19,7 +19,7 @@
     { id: '1m',  name: '1 mesec',   months: 1,  price: 10, perMonth: '10.00', save: 0 },
     { id: '3m',  name: '3 meseca',  months: 3,  price: 25, perMonth: '8.33',  save: 17, badge: 'Najtraženiji', style: 'featured' },
     { id: '6m',  name: '6 meseci',  months: 6,  price: 40, perMonth: '6.67',  save: 33 },
-    { id: '12m', name: '12 meseci', months: 12, price: 60, perMonth: '5.00',  save: 50, badge: 'Najbolja vrednost', style: 'best' }
+    { id: '12m', name: '12 meseci', months: 12, price: 60, perMonth: '5.00',  save: 50, badge: 'Najpovoljniji', style: 'best' }
   ];
 
   var INCLUDED = [
@@ -31,7 +31,7 @@
     'Anti-freeze serveri',
     '1 uređaj po pretplati',
     'Aktivacija u 5 minuta',
-    '24/7 podrška na srpskom'
+    '24/7 podrška'
   ];
 
   /* ---------------- FAQ ---------------- */
